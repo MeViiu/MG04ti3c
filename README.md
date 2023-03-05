@@ -40,7 +40,7 @@ https://github.com/MeViiu/mg04ti3c
  
 ## Licencja
  
-Ten projekt został wygdany pod licencją MIT'a. Zobacz więcej w pliku LICENSE.
+Ten projekt został wydany pod licencją MIT'a. Zobacz więcej w pliku LICENSE.
  
 ## Autor
  
